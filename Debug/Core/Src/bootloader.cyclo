@@ -1,0 +1,14 @@
+../Core/Src/bootloader.c:23:6:vBL_SendMsg	1
+../Core/Src/bootloader.c:34:11:BL_FetchHostCommand	9
+../Core/Src/bootloader.c:76:17:u8BL_CRC_Verify	3
+../Core/Src/bootloader.c:98:13:vBL_SendACK	1
+../Core/Src/bootloader.c:111:13:vBL_GetHelp	2
+../Core/Src/bootloader.c:135:13:vBL_SendNACK	1
+../Core/Src/bootloader.c:143:13:vBL_GetVer	2
+../Core/Src/bootloader.c:162:13:vBL_GetChipID	2
+../Core/Src/bootloader.c:182:13:vBL_FlashErase	2
+../Core/Src/bootloader.c:204:17:Perform_Flash_Erase	6
+../Core/Src/bootloader.c:259:13:vBL_Write_Data	3
+../Core/Src/bootloader.c:298:16:u8BL_AdressVerification	5
+../Core/Src/bootloader.c:314:16:u8BL_FlashMemoryPayloadWrite	3
+../Core/Src/bootloader.c:340:13:vBL_JumpToApplication	3

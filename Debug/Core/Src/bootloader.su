@@ -1,0 +1,14 @@
+../Core/Src/bootloader.c:23:6:vBL_SendMsg	112	static
+../Core/Src/bootloader.c:34:11:BL_FetchHostCommand	16	static
+../Core/Src/bootloader.c:76:17:u8BL_CRC_Verify	40	static
+../Core/Src/bootloader.c:98:13:vBL_SendACK	24	static
+../Core/Src/bootloader.c:111:13:vBL_GetHelp	32	static
+../Core/Src/bootloader.c:135:13:vBL_SendNACK	16	static
+../Core/Src/bootloader.c:143:13:vBL_GetVer	32	static
+../Core/Src/bootloader.c:162:13:vBL_GetChipID	32	static
+../Core/Src/bootloader.c:182:13:vBL_FlashErase	32	static
+../Core/Src/bootloader.c:204:17:Perform_Flash_Erase	40	static
+../Core/Src/bootloader.c:259:13:vBL_Write_Data	32	static
+../Core/Src/bootloader.c:298:16:u8BL_AdressVerification	24	static
+../Core/Src/bootloader.c:314:16:u8BL_FlashMemoryPayloadWrite	40	static
+../Core/Src/bootloader.c:340:13:vBL_JumpToApplication	40	static,ignoring_inline_asm
